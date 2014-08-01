@@ -31,6 +31,7 @@ public class PAQConfigGenrator {
 	public static void main(String[] args) throws Exception {
 		
 		obj = Json.GetInstallInfo.JsonInfo();
+		Json.WriteInstallInfo.Wirte(obj);
 		
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {

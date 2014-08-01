@@ -1,0 +1,627 @@
+{
+  "Config": "http://fileserver.mage-tech.org/1.7.10/config.1.7.10V1.0.zip",
+  "Forge": [
+    {
+      "installer": "http://fileserver.mage-tech.org/1.7.10/forge-1.7.10-10.13.0.1180-installer.jar",
+      "id": "1.7.10-Forge10.13.0.1180",
+      "ServerZip": "http://fileserver.mage-tech.org/1.7.10/forge-1.7.10-10.13.0.1180-Server-Zip.zip"
+    }
+  ],
+  "version": [
+    {
+      "major": 2,
+      "minor": 0,
+      "build": 2
+    }
+  ],
+  "mods": [
+    {
+      "name": "[1.7.10]ArmorStatusHUD-client-1.27.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/%5b1.7.10%5dArmorStatusHUD-client-1.27.jar",
+      "id": 1,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 26024
+    },
+    {
+      "name": "[1.7.10]bspkrsCore-universal-6.13.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/%5b1.7.10%5dbspkrsCore-universal-6.13.jar",
+      "id": 2,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 198541
+    },
+    {
+      "name": "[1.7.10]DamageIndicatorsMod-3.2.0.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/%5b1.7.10%5dDamageIndicatorsMod-3.2.0.jar",
+      "id": 3,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 640267
+    },
+    {
+      "name": "[1.7.2]Treecapitator-universal-2.0.3.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/%5b1.7.2%5dTreecapitator-universal-2.0.3.jar",
+      "id": 4,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 95006
+    },
+    {
+      "name": "advanced-machines-59.0.0.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/advanced-machines-59.0.0.jar",
+      "id": 49,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 214526
+    },
+    {
+      "name": "appliedenergistics2-rv0-stable-10.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/appliedenergistics2-rv0-stable-10.jar",
+      "id": 5,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 1929804
+    },
+    {
+      "name": "AsieLib-1.7.10-0.2.7.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/AsieLib-1.7.10-0.2.7.jar",
+      "id": 5,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 110224
+    },
+    {
+      "name": "backpack-2.0.0-1.7.x.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/backpack-2.0.0-1.7.x.jar",
+      "id": 7,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 172513
+    },
+    {
+      "name": "BiblioCraft[v1.7.5][MC1.7.10].jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/BiblioCraft%5bv1.7.5%5d%5bMC1.7.10%5d.jar",
+      "id": 9,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 2248140
+    },
+    {
+      "name": "BiblioWoods[BiomesOPlenty][v1.6].jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/BiblioWoods%5bBiomesOPlenty%5d%5bv1.6%5d.jar",
+      "id": 9,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 233991
+    },
+    {
+      "name": "BiblioWoods[Forestry][v1.4].jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/BiblioWoods%5bForestry%5d%5bv1.4%5d.jar",
+      "id": 9,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 547617
+    },
+    {
+      "name": "BiblioWoods[Natura][v1.2].jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/BiblioWoods%5bNatura%5d%5bv1.2%5d.jar",
+      "id": 9,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 378855
+    },
+    {
+      "name": "BiomesOPlenty-1.7.10-2.1.0.943-universal.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/BiomesOPlenty-1.7.10-2.1.0.943-universal.jar",
+      "id": 10,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 5645790
+    },
+    {
+      "name": "buildcraft-6.0.17.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/buildcraft-6.0.17.jar",
+      "id": 10,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 1799266
+    },
+    {
+      "name": "Chisel-1.7.10-1.5.6.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/Chisel-1.7.10-1.5.6.jar",
+      "id": 10,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 2168438
+    },
+    {
+      "name": "CodeChickenCore-1.7.10-1.0.2.13-universal.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/CodeChickenCore-1.7.10-1.0.2.13-universal.jar",
+      "id": 11,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 154645
+    },
+    {
+      "name": "CompactSolars-1.7.10-4.4.36.313-universal.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/CompactSolars-1.7.10-4.4.36.313-universal.jar",
+      "id": 11,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 55924
+    },
+    {
+      "name": "connectedglass-59.0.2.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/connectedglass-59.0.2.jar",
+      "id": 12,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 16347
+    },
+    {
+      "name": "denseores-1.1.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/denseores-1.1.jar",
+      "id": 14,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 26697
+    },
+    {
+      "name": "dimensional-anchor-59.0.2.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/dimensional-anchor-59.0.2.jar",
+      "id": 15,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 142285
+    },
+    {
+      "name": "eirairc-mc1.7.10-v1.7.0.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/eirairc-mc1.7.10-v1.7.0.jar",
+      "id": 16,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 280748
+    },
+    {
+      "name": "enderio-2.0_beta.152.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/enderio-2.0_beta.152.jar",
+      "id": 17,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 2460376
+    },
+    {
+      "name": "EnderStorage-1.7.10-1.4.4.11-universal.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/EnderStorage-1.7.10-1.4.4.11-universal.jar",
+      "id": 18,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 141895
+    },
+    {
+      "name": "ExtraCells-2.1.3.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/ExtraCells-2.1.3.jar",
+      "id": 18,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 853976
+    },
+    {
+      "name": "extrautilities-1.1.0e.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/extrautilities-1.1.0e.jar",
+      "id": 19,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 1164949
+    },
+    {
+      "name": "Factorization-1.7.10-0.8.86.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/Factorization-1.7.10-0.8.86.jar",
+      "id": 19,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 1221711
+    },
+    {
+      "name": "forestry_1.7.10-2.4.2.31.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/forestry_1.7.10-2.4.2.31.jar",
+      "id": 20,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 3284887
+    },
+    {
+      "name": "hopperductmod-1.3.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/hopperductmod-1.3.jar",
+      "id": 22,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 46935
+    },
+    {
+      "name": "immibis-core-59.0.1.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/immibis-core-59.0.1.jar",
+      "id": 24,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 289587
+    },
+    {
+      "name": "immibis-microblocks-59.0.0.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/immibis-microblocks-59.0.0.jar",
+      "id": 25,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 280292
+    },
+    {
+      "name": "industrialcraft-2-2.2.542-experimental.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/industrialcraft-2-2.2.542-experimental.jar",
+      "id": 26,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 4982339
+    },
+    {
+      "name": "infinitubes-59.0.1.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/infinitubes-59.0.1.jar",
+      "id": 27,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 180484
+    },
+    {
+      "name": "InventoryTweaks-1.58-147.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/InventoryTweaks-1.58-147.jar",
+      "id": 28,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 221921
+    },
+    {
+      "name": "ironchest-1.7.10-6.0.41.729-universal.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/ironchest-1.7.10-6.0.41.729-universal.jar",
+      "id": 29,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 157123
+    },
+    {
+      "name": "Jabba-1.1.4_1.7.10.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/Jabba-1.1.4_1.7.10.jar",
+      "id": 29,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 530762
+    },
+    {
+      "name": "liquid-xp-59.0.0.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/liquid-xp-59.0.0.jar",
+      "id": 30,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 419576
+    },
+    {
+      "name": "Mantle_mc1.7.10_0.3.0.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/Mantle_mc1.7.10_0.3.0.jar",
+      "id": 31,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 192715
+    },
+    {
+      "name": "natura-1.7.10-2.2.0-b1.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/natura-1.7.10-2.2.0-b1.jar",
+      "id": 34,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 859973
+    },
+    {
+      "name": "NotEnoughItems-1.7.10-1.0.2.36-universal.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/NotEnoughItems-1.7.10-1.0.2.36-universal.jar",
+      "id": 35,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 460043
+    },
+    {
+      "name": "ProjectRed-Base-1.7.10-4.4.5.44.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/ProjectRed-Base-1.7.10-4.4.5.44.jar",
+      "id": 36,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 1279561
+    },
+    {
+      "name": "ProjectRed-Compat-1.7.10-4.4.5.44.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/ProjectRed-Compat-1.7.10-4.4.5.44.jar",
+      "id": 36,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 53399
+    },
+    {
+      "name": "ProjectRed-Integration-1.7.10-4.4.5.44.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/ProjectRed-Integration-1.7.10-4.4.5.44.jar",
+      "id": 36,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 2499157
+    },
+    {
+      "name": "ProjectRed-Lighting-1.7.10-4.4.5.44.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/ProjectRed-Lighting-1.7.10-4.4.5.44.jar",
+      "id": 36,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 752683
+    },
+    {
+      "name": "ProjectRed-Mechanical-1.7.10-4.4.5.44.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/ProjectRed-Mechanical-1.7.10-4.4.5.44.jar",
+      "id": 36,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 1158904
+    },
+    {
+      "name": "ProjectRed-World-1.7.10-4.4.5.44.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/ProjectRed-World-1.7.10-4.4.5.44.jar",
+      "id": 36,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 153809
+    },
+    {
+      "name": "redlogic-59.0.3.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/redlogic-59.0.3.jar",
+      "id": 36,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 988678
+    },
+    {
+      "name": "secretroomsmod-1.7.10-4.7.1.371.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/secretroomsmod-1.7.10-4.7.1.371.jar",
+      "id": 37,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 132137
+    },
+    {
+      "name": "statues-1.7.10-2.1.3.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/statues-1.7.10-2.1.3.jar",
+      "id": 38,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 206777
+    },
+    {
+      "name": "StevesCarts2.0.0.b16.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/StevesCarts2.0.0.b16.jar",
+      "id": 38,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 2531999
+    },
+    {
+      "name": "TConstruct_mc1.7.10_1.6.0d35.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/TConstruct_mc1.7.10_1.6.0d35.jar",
+      "id": 39,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 4781972
+    },
+    {
+      "name": "TMechworks_mc1.7.10_0.2.8.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/TMechworks_mc1.7.10_0.2.8.jar",
+      "id": 42,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 207593
+    },
+    {
+      "name": "tubestuff-59.0.0.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/tubestuff-59.0.0.jar",
+      "id": 44,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 299452
+    },
+    {
+      "name": "twilightforest-1.7.2-2.2.3.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/twilightforest-1.7.2-2.2.3.jar",
+      "id": 45,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 3240230
+    },
+    {
+      "name": "voxelmapNoRadar-1.7.10-1.0.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/voxelmapNoRadar-1.7.10-1.0.jar",
+      "id": 46,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 428796
+    },
+    {
+      "name": "Waila-1.5.3_1.7.10.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/Waila-1.5.3_1.7.10.jar",
+      "id": 47,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 303830
+    },
+    {
+      "name": "youtubers-1.5.4.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/youtubers-1.5.4.jar",
+      "id": 48,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 525745
+    },
+    {
+      "name": "AE2TechAddOn-1.7.10-1.0-b73-universal.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/AE2TechAddOn-1.7.10-1.0-b73-universal.jar",
+      "id": 48,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 146485
+    },
+    {
+      "name": "Blood Magic-v1.1.0(1.7.10).jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/Blood%20Magic-v1.1.0(1.7.10).jar",
+      "id": 48,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 1470270
+    },
+    {
+      "name": "Botania r1.1-94.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/Botania%20r1.1-94.jar",
+      "id": 48,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 2705720
+    },
+    {
+      "name": "Carpenter\u0027s Blocks v3.2.5 [DEV R3] - MC 1.7.10.zip",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/Carpenter%27s%20Blocks%20v3.2.5%20%5bDEV%20R3%5d%20-%20MC%201.7.10.zip",
+      "id": 48,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 434881
+    },
+    {
+      "name": "CoFHCore-[1.7.10]3.0.0B1-19.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/CoFHCore-%5b1.7.10%5d3.0.0B1-19.jar",
+      "id": 48,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 469151
+    },
+    {
+      "name": "CoFHLib-[1.7.10]1.0.0B2-14.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/CoFHLib-%5b1.7.10%5d1.0.0B2-14.jar",
+      "id": 48,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 161188
+    },
+    {
+      "name": "Enchiridion-1.7.X-1.2.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/Enchiridion-1.7.X-1.2.jar",
+      "id": 48,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 79587
+    },
+    {
+      "name": "Mariculture-1.7.10-1.2.3-76.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/Mariculture-1.7.10-1.2.3-76.jar",
+      "id": 48,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 3673106
+    },
+    {
+      "name": "MineFactoryReloaded-[1.7.10]2.8.0RC1-540.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/MineFactoryReloaded-%5b1.7.10%5d2.8.0RC1-540.jar",
+      "id": 48,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 1888233
+    },
+    {
+      "name": "NetherOres-[1.7.10]2.3.0RC2-76.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/NetherOres-%5b1.7.10%5d2.3.0RC2-76.jar",
+      "id": 48,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 77504
+    },
+    {
+      "name": "Pam\u0027s Clay Spawn 1.7.2a.zip",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/Pam%27s%20Clay%20Spawn%201.7.2a.zip",
+      "id": 48,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 4110
+    },
+    {
+      "name": "Pam\u0027s HarvestCraft 1.7.10a.zip",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/Pam%27s%20HarvestCraft%201.7.10a.zip",
+      "id": 48,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 1553291
+    },
+    {
+      "name": "PneumaticCraft-1.2.2.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/PneumaticCraft-1.2.2.jar",
+      "id": 48,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 5113758
+    },
+    {
+      "name": "ProgressiveAutomation-1.7.10-1.4.0.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/ProgressiveAutomation-1.7.10-1.4.0.jar",
+      "id": 48,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 166232
+    },
+    {
+      "name": "RedstoneArsenal-[1.7.10]1.0.1B1-3.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/RedstoneArsenal-%5b1.7.10%5d1.0.1B1-3.jar",
+      "id": 48,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 304597
+    },
+    {
+      "name": "RemoteIO-1.7.10-1.1.1-b26-universal.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/RemoteIO-1.7.10-1.1.1-b26-universal.jar",
+      "id": 48,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 133590
+    },
+    {
+      "name": "rotateableblocks-17x-build-8.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/rotateableblocks-17x-build-8.jar",
+      "id": 48,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 47204
+    },
+    {
+      "name": "ThermalExpansion-[1.7.10]4.0.0B1-3.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/ThermalExpansion-%5b1.7.10%5d4.0.0B1-3.jar",
+      "id": 48,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 3653175
+    },
+    {
+      "name": "ThermalFoundation-[1.7.10]1.0.0B1-2.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/ThermalFoundation-%5b1.7.10%5d1.0.0B1-2.jar",
+      "id": 48,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 968838
+    },
+    {
+      "name": "witchery-1.7.10-0.20.2.jar",
+      "link": "http://fileserver.mage-tech.org/1.7.10/mods/witchery-1.7.10-0.20.2.jar",
+      "id": 48,
+      "adfly": false,
+      "ClientOnly": false,
+      "FileSize": 4085375
+    }
+  ]
+}
