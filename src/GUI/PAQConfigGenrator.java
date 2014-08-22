@@ -8,6 +8,7 @@ import javax.swing.*;
 import Json.GetInstallInfo;
 import Json.InstallInfo;
 import Worker.FileGrab;
+import Worker.Save;
 
 import java.awt.event.*;
 import java.io.*;
@@ -93,6 +94,12 @@ public class PAQConfigGenrator {
 		CP.add(b1, "1, 9, fill, fill");
 		b2.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				try {
+					Save.SaveData(obj, tbConfig.getText(), tbVersion.getText());
+				} catch (FileNotFoundException e1) {
+					// TODO Auto-generated catch block
+					e1.printStackTrace();
+				}
 				System.exit(0);
 			}
 		});

@@ -13,7 +13,7 @@ package Json;
 import java.util.List;
 
 public class InstallInfo {
-	private String Config;
+	public String Config;
 	private List<forge> Forge;
 	private List<version> version;
 	private List<mods> mods;

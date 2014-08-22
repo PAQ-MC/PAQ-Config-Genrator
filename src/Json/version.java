@@ -12,9 +12,9 @@ package Json;
 
 public class version {
 
-	private int major;
-	private int minor;
-	private int build;
+	public int major;
+	public int minor;
+	public int build;
 
 	@Override
 	public String toString() {

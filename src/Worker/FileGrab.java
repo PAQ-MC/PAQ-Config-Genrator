@@ -19,7 +19,8 @@ public class FileGrab {
 		
 		PAQConfigGenrator.tbConfig.setText(obj.Config());
 		PAQConfigGenrator.tbForge.setText(obj.forge().get(0).id()); //TODO work out better way of showing / eding this
-		PAQConfigGenrator.tbVersion.setText(obj.version().toString());
+		PAQConfigGenrator.tbVersion.setText(obj.version().get(0).major() + "-" + obj.version().get(0).minor() + "-" + obj.version().get(0).build() );
+		
 		
 		PAQConfigGenrator.cbMods.setModel(new DefaultComboBoxModel(mods()));
 		
